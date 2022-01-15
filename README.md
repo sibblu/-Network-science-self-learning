@@ -1,2 +1,2 @@
-# Data-science
-For Coursera Data Science course
+# Network-science-self-learning
+
